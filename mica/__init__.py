@@ -1,2 +1,2 @@
 # mica
-from mica import improve
+from mica import improve_abbreviations
